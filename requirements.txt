@@ -1,0 +1,6 @@
+pathway[llm]
+google-generativeai
+sentence-transformers
+python-dotenv
+pandas
+requests
